@@ -1,0 +1,6 @@
+The internet is a network of different networks while the World Wide Web is information accessed through the internet. 
+The internet is a wire that connects servers, so they are able to communicate and share information. 
+Directories are folders that build the structure that contains references to the computers files (similar to a filing cabinet).
+VCS can provide great support system. 
+Done. 
+I personally like pencil drawings.
