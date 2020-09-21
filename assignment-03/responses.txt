@@ -1,1 +1,18 @@
 My responses
+1. I enjoy visiting [pintrest.com](https://www.pinterest.com/), [Liveoriginal.com](https://liveoriginal.com/blog/) and [youtube.com](https://www.youtube.com/)
+
+2. The IP address is given to a computer to identify it on a given network. The DNS is  which is used to convert alphabetic references into a server's IP address.
+
+3. A cookie is a txt file that identifies a user and helps improve web browsing.
+
+4. List the three essential parts of a URL.
+-protocol
+-Domain name
+-path to file
+
+5. Readme file
+
+6. Add a list of 3 things you've learned so far.
+- how to make a List
+- the internet is a network
+- how to make a heading 
