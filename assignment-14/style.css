@@ -5,8 +5,19 @@
 .tetareacomments{
   padding=bottom: blue;
 }
+.menu-item{
+  display; inline-black;
+  margin: 1em .2em;
+  min-width: 6em;
+  text-align: center;
+  background-color: beige;
+  paddign: 0.5em 1em;
+}
+.menu-item:hover {
+  background-color: grey;
+}
 div{
-  text-align: left;
+  text-align: center;
   line-height: 1.45em;
   font-family: Merriweather, sans-serif;
   margin-bottom: 10px;
